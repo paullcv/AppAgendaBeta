@@ -55,8 +55,6 @@ public class MainActivity extends AppCompatActivity {
                     }else {
                         Toast.makeText(MainActivity.this, "No existe", Toast.LENGTH_SHORT).show();
                     }
-
-
                 }
             });
         }

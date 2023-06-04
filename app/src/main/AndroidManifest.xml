@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AgendaBeta"
         tools:targetApi="31">
         <activity
+            android:name=".ContactoMostar"
+            android:exported="false" />
+        <activity
             android:name=".Categoria"
             android:exported="false" />
         <activity
